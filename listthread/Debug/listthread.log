@@ -1,0 +1,4 @@
+﻿cl : komut satırı warning D9025: '/sdl', '/GS-' ile geçersiz kılınıyor
+  dllmain.cpp
+C:\Users\canku\source\repos\listthread\listthread\dllmain.cpp(22,33): error C2065: 'stdout': bildirimi yapılmamış tanımlayıcı
+C:\Users\canku\source\repos\listthread\listthread\dllmain.cpp(22,9): error C3861: 'freopen': tanımlayıcı bulunamadı
